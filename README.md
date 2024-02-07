@@ -40,7 +40,7 @@ multiplication operator
 ```
 *
 ```
-division oprator
+division operator
 ```
 /
 ```
