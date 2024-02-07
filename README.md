@@ -22,3 +22,31 @@ multiline comment
 6. bigint
 7. number
 8. object
+
+## Variable
+variable allow data to be stored and manipulated. They do this by using a label to point to the data.
+
+## Operators
+
+assignment operator
+```
+= 
+```
+subtraction operator
+```
+- 
+```
+multiplication operator
+```
+*
+```
+division oprator
+```
+/
+```
+
+remainder operator
+```
+%
+```
+
