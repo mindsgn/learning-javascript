@@ -4,7 +4,7 @@
 
 single line comment
 ```
-	// 
+// 
 ```
 
 multiline comment
@@ -12,7 +12,7 @@ multiline comment
 /* */	
 ```
 
-## Datatypes
+## Data Types
 
 1. undefines
 2. null
